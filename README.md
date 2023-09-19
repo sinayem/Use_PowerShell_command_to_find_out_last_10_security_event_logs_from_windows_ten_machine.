@@ -8,3 +8,5 @@
 & absolute_path\1.ps1
 ```
 ## _Example: & C:\Users\nayem\Desktop\Assignment\1.ps1_
+
+![Uploading image.png…]()
