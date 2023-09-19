@@ -1,0 +1,1 @@
+Get-WinEvent -LogName Security -MaxEvents 10
